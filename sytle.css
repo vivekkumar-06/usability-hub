@@ -15,7 +15,7 @@ p {
 
 }
 .image {
-    background-image: url("shop7_image.jpg");
+    background-image: url("images/shop7_image.jpg");
     height: 130px;
     width: 200px;
     background-size: contain;
@@ -88,7 +88,7 @@ h1 {
     border: 1px solid #2294ED;
 }
 .box2 {
-    background-image: url("hero1_image.jpg");
+    background-image: url("images/hero1_image.jpg");
     height: 335px;
     width: 460px;
     background-size: contain;
